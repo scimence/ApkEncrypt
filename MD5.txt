@@ -1,4 +1,4 @@
-﻿服务器资源目录(https://gitee.com/scimence/ApkEncrypt/raw/master/)
+﻿服务器资源目录(https://scimence.gitee.io/ApkEncrypt)
 本地资源目录(E:\SVN\workSpace\ApkEncrypt\)
 
 待更新文件(
