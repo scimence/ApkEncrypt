@@ -1,0 +1,12 @@
+﻿服务器资源目录(https://gitee.com/scimence/ApkEncrypt/raw/master/)
+本地资源目录(E:\SVN\workSpace\ApkEncrypt\)
+
+待更新文件(
+
+ApkEncrypt.data(21c9c8689e3e1243c128b9a531078fa8)
+ApkEncrypt.exe(6c906f3d31bf44ec1baba6015e184f7)
+README.en.md(219cd70bc269579a0803a70c786dd6df)
+README.md(ca040c291cc3d7ba68a8784c9fb2d4ab)
+files/ApkEncrypt_sourceCode_20200405.7z.zip(bba384e12386b026b985bee4edaced83)
+
+)待更新文件
